@@ -1,121 +1,121 @@
-0137	s	Received ひでんマシン01 いあいぎり
-0110	s	Received ひでんマシン02 そらをとぶ
-0122	s	Received ひでんマシン03 なみのり
-0106	s	Received ひでんマシン04 かいりき
-0109	s	Received ひでんマシン05 フラッシュ
-0107	s	Received ひでんマシン06 いわくだき
-0312	s	Received ひでんマシン07 たきのぼり
-0123	s	Received ひでんマシン08 ダイビング
-0090	s	Received マッハじてんしゃ/ダートじてんしゃ
+0137	s	ひでんマシン01「いあいぎり」獲得
+0110	s	ひでんマシン02「そらをとぶ」獲得
+0122	s	ひでんマシン03「なみのり」獲得
+0106	s	ひでんマシン04「かいりき」獲得
+0109	s	ひでんマシン05「フラッシュ」獲得
+0107	s	ひでんマシン06「いわくだき」獲得
+0312	s	ひでんマシン07「たきのぼり」獲得
+0123	s	ひでんマシン08「ダイビング」獲得
+0090	s	「マッハじてんしゃ/ダートじてんしゃ」受け取り済み
 
-2151	*	Received ストーンバッジ
-2152	*	Received ナックルバッジ
-2153	*	Received ダイナモバッジ
-2154	*	Received ヒートバッジ
-2155	*	Received バランスバッジ
-2156	*	Received フェザーバッジ
-2157	*	Received マインドバッジ
-2158	*	Received レインバッジ
+2151	*	ストーンバッジ獲得
+2152	*	ナックルバッジ獲得
+2153	*	ダイナモバッジ獲得
+2154	*	ヒートバッジ獲得
+2155	*	バランスバッジ獲得
+2156	*	フェザーバッジ獲得
+2157	*	マインドバッジ獲得
+2158	*	レインバッジ獲得
 
-0153	g	Traded in カナズミシティ
-0154	g	Traded in キナギタウン
-0155	g	Traded in ヒワマキシティ
-0156	g	Traded in バトルフロンティア
+0153	g	カナズミシティで タネボーを 交換した
+0154	g	キナギタウンで タッツーを 交換した
+0155	g	ヒワマキシティで プラスルを 交換した
+0156	g	バトルフロンティアで ニャースを 交換した
 
-0151	g	Received ポワルン
-0266	g	Received ソーナノのたまご
-0298	g	Received ダンバル
+0151	g	ポワルン 受け取り済み
+0266	g	ソーナノのタマゴ 受け取り済み
+0298	g	ダンバル 受け取り済み
 
-0314	e	Received オーロラチケット from ふしぎなおくりもの
-0315	e	Received しんぴのチケット from ふしぎなおくりもの
-0316	e	Received ふるびたかいず from ふしぎなおくりもの
+0314	e	ふしぎなおくりもので オーロラチケットを 受け取った
+0315	e	ふしぎなおくりもので しんぴのチケットを 受け取った
+0316	e	ふしぎなおくりもので ふるびたかいずを 受け取った
 
-0430	e	Shown むげんのチケット
-0431	e	Shown オーロラチケット
-0432	e	Shown ふるびたかいず
-0475	e	Shown しんぴのチケット
+0430	e	むげんのチケットを 船乗りに見せた
+0431	e	オーロラチケットを 船乗りに見せた
+0432	e	ふるびたかいずを 船乗りに見せた
+0475	e	しんぴのチケットを 船乗りに見せた
 
-2227	e	Can Travel to みなみのことう
-2261	e	Can Travel to たんじょうのしま
-2262	e	Can Travel to さいはてのことう
-2272	e	Can Travel to へそのいわ
+2227	e	みなみのことうへ 行けるようになる
+2261	e	たんじょうのしまへ 行けるようになる
+2262	e	さいはてのことうへ 行けるようになる
+2272	e	へそのいわへ 行けるようになる
 
-0255	r	ラティアス・ラティオス Roaming
+0255	r	ラティアス・ラティオス徘徊フラグ
 
-0455	r	Defeated ミュウ
-0458	r	Captured ミュウ
-0145	r	Captured ルギア
-0146	r	Captured ホウオウ
-0476	r	Defeated ホウオウ
-0477	r	Defeated ルギア
-0443	r	Captured/Defeated レジロック
-0444	r	Captured/Defeated レジアイス
-0445	r	Captured/Defeated レジスチル
-0456	r	Defeated ラティアス・ラティオス on みなみのことう
-0457	r	Captured ラティアス・ラティオス on みなみのことう
-0446	r	Captured/Defeated カイオーガ
-0447	r	Captured/Defeated グラードン
-0448	r	Captured/Defeated レックウザ
-0428	r	Defeated デオキシス
-0429	r	Captured デオキシス
+0455	r	ミュウ撃破
+0458	r	ミュウ捕獲
+0145	r	ルギア捕獲
+0146	r	ホウオウ捕獲
+0476	r	ホウオウ撃破
+0477	r	ルギア撃破
+0443	r	レジロック捕獲 or 撃破
+0444	r	レジアイス捕獲 or 撃破
+0445	r	レジスチル捕獲 or 撃破
+0456	r	みなみのことうのラティアス・ラティオス撃破
+0457	r	みなみのことうのラティアス・ラティオス捕獲
+0446	r	カイオーガ捕獲 or 撃破
+0447	r	グラードン捕獲 or 撃破
+0448	r	レックウザ捕獲 or 撃破
+0428	r	デオキシス撃破
+0429	r	デオキシス捕獲
 
-0433	*	Used Move Tutor in カイナシティ (Swagger)
-0434	*	Used Move Tutor in キンセツシティ (Rollout)
-0435	*	Used Move Tutor in シダケタウン (Fury Cutter)
-0436	*	Used Move Tutor in フエンタウン (Mimic)
-0437	*	Used Move Tutor in ハジツゲタウン (Metronome)
-0438	*	Used Move Tutor in ヒワマキシティ (Sleep Talk)
-0439	*	Used Move Tutor in ミナモシティ (Substitute)
-0440	*	Used Move Tutor in トクサネシティ (Dynamic Punch)
-0441	*	Used Move Tutor in ルネシティ (Double-Edge)
-0442	*	Used Move Tutor in キナギタウン (Explosion)
+0433	*	カイナシティの教え技使用済み(いばる)
+0434	*	キンセツシティの教え技使用済み(ころがる)
+0435	*	シダケタウンの教え技使用済み(れんぞくぎり)
+0436	*	フエンタウンの教え技使用済み(ものまね)
+0437	*	ハジツゲタウンの教え技使用済み(ゆびをふる)
+0438	*	ヒワマキシティの教え技使用済み(ねごと)
+0439	*	ミナモシティの教え技使用済み(みがわり)
+0440	*	トクサネシティの教え技使用済み(ばくれつパンチ)
+0441	*	ルネシティの教え技使用済み(すてみタックル)
+0442	*	キナギタウンの教え技使用済み(だいばくはつ)
 
-2144	s	Unlock menu item POKéMON
-2145	s	Unlock menu item ポケモンずかん
-2146	s	Unlock menu item ポケナビ
-2148	s	Entered 殿堂入り
-2150	s	Met ナウいおやじ
+2144	s	メニューに「ポケモン」が解放
+2145	s	メニューに「ずかん」が解放
+2146	s	メニューに「ポケナビ」が解放
+2148	s	殿堂入り済み
+2150	s	ナウいおやじに話しかけた
 2192	s	Watched TV at Home
-2196	s	Mixed Records
-2197	s	Set Clock
-2198	s	Received ぜんこくずかん
-2202	s	あさせのほらあな Tide
+2196	s	レコードを混ぜた
+2197	s	時計をセットした
+2198	s	ぜんこくずかんを受け取った
+2202	s	あさせのほらあなが満潮
 2203	s	Received a Ribbon
-2219	s	Unlocked マユミ's PC
-2221	s	Used しろいビードロ
-2222	s	Used くろいビードロ
-2223	s	Completed おふれのせきしつ Puzzle (1)
-0228	s	Completed おふれのせきしつ Puzzle (2)
-2224	s	Completed レジロック Puzzle
-2225	s	Completed レジアイス Puzzle
-2226	s	Completed レジスチル Puzzle
-2239	s	Can Receive かいがらのすず
-2240	*	Received ランニングシューズ
+2219	s	「マユミのPC」が解放
+2221	s	しろいビードロ使用中
+2222	s	くろいビードロ使用中
+2223	s	おふれのせきしつ1番目のパズルクリア
+0228	s	おふれのせきしつ2番目のパズルクリア
+2224	s	さばくいせき（レジロック）のパズルクリア
+2225	s	こじまのよこあな（レジアイス）のパズルクリア
+2226	s	こだいづか（レジスチル）のパズルクリア
+2239	s	かいがらのすず受け取り可能
+2240	*	ランニングシューズ受け取り済み
 2242	*	Reset RTC Enabled
-2267	*	ふしぎなおくりもの Enabled
-2276	s	Received ポケモンずかん
+2267	*	「ふしぎなおくりもの」解放済み
+2276	s	ポケモンずかん受け取り済み
 
-2244	a	Received Silver Ability Symbol (バトルタワー)
-2245	a	Received Gold Ability Symbol (バトルタワー)
-2246	a	Received Silver Tactics Symbol (バトルドーム)
-2247	a	Received Gold Tactics Symbol (バトルドーム)
-2248	a	Received Silver Spirits Symbol (バトルパレス)
-2249	a	Received Gold Spirits Symbol (バトルパレス)
-2250	a	Received Silver Guts Symbol (バトルアリーナ)
-2251	a	Received Gold Guts Symbol (バトルアリーナ)
-2252	a	Received Silver Knowledge Symbol (バトルファクトリー)
-2253	a	Received Gold Knowledge Symbol (バトルファクトリー)
-2254	a	Received Silver Luck Symbol (バトルチューブ)
-2255	a	Received Gold Luck Symbol (バトルチューブ)
-2256	a	Received Silver Brave Symbol (バトルピラミッド)
-2257	a	Received Gold Brave Symbol (バトルピラミッド)
-2258	*	Received フロンティアパス
+2244	a	銀アビリティシンボル(バトルタワー)獲得
+2245	a	金アビリティシンボル(バトルタワー)獲得
+2246	a	銀タクティクスシンボル(バトルドーム)獲得
+2247	a	金タクティクスシンボル(バトルドーム)獲得
+2248	a	銀スピリットシンボル(バトルパレス)獲得
+2249	a	金スピリットシンボル(バトルパレス)獲得
+2250	a	銀ガッツシンボル(バトルアリーナ)獲得
+2251	a	金ガッツシンボル(バトルアリーナ)獲得
+2252	a	銀ノウレッジシンボル(バトルファクトリー)獲得
+2253	a	金ノウレッジシンボル(バトルファクトリー)獲得
+2254	a	銀ラックシンボル(バトルチューブ)獲得
+2255	a	金ラックシンボル(バトルチューブ)獲得
+2256	a	銀ブレイブシンボル(バトルピラミッド)獲得
+2257	a	金ブレイブシンボル(バトルピラミッド)獲得
+2258	*	フロンティアパス受取済み
 
-0335	s	Chose ねっこのカセキ in げんえいのとう (ツメのカセキ in さばくのちかどう)
-0336	s	Chose ツメのカセキ in げんえいのとう (ねっこのカセキ in さばくのちかどう)
+0335	s	げんえいのとうでねっこのカセキを選択（さばくのちかどうではツメのカセキ）
+0336	s	げんえいのとうでツメのカセキを選択（さばくのちかどうではねっこのカセキ）
 
-500	r	こおりなおし (hidden) in フエンタウン found
-501	r	きんのたま (hidden) in カラクリやしき Reward Room found (unused)
+500	r	フエンタウンの こおりなおし(隠し)を ゲット
+501	r	きんのたま (hidden) in カラクリやしき Reward Room found (未使用)
 502	r	ほしのすな (hidden) on 111ばんどうろ found
 503	r	ピーピーエイド (hidden) on 113ばんどうろ found
 504	r	インドメタシン (hidden) on 114ばんどうろ found
@@ -127,7 +127,7 @@
 510	r	しんじゅ (hidden) on 124ばんすいどう (underwater) found
 511	r	おおきなしんじゅ (hidden) on 124ばんすいどう (underwater) found
 512	r	あおいかけら (hidden) on 126ばんすいどう (underwater) found
-513	r	ハートのウロコ (hidden; single ダイビング Spot) on 124ばんすいどう (underwater) found
+513	r	ハートのウロコ (hidden; single ダイビング Spot) on 124ばんすいどう (すいちゅう) found
 514	r	ハートのウロコ  (hidden) on 126ばんすいどう (underwater) found
 515	r	ハイパーボール (hidden) on 126ばんすいどう (underwater) found
 516	r	ほしのすな (hidden) on 126ばんすいどう (underwater) found
@@ -227,289 +227,289 @@
 610	r	ふしぎなアメ (hidden) on 123ばんどうろ found
 611	r	おおきなしんじゅ (hidden) on 105ばんすいどう found
 
-700	r	Don't spawn オダマキ博士's bag on 101ばんどうろ
-701	r	Don't spawn apprentice in バトルタワー
-702	r	Don't spawn ふしぎなおくりもの guy in ポケモンセンター 2F
+700	r	101ばんどうろのオダマキ博士のバッグを非表示
+701	r	バトルタワーの弟子を非表示
+702	r	ポケモンセンター2Fの配達員を非表示
 
-717	r	Don't spawn Guards in サファリゾーン blocking サファリゾーン expansion
-718	r	Don't spawn ミュウ on さいはてのことう
-719	r	Don't spawn ユウキ/ハルカ on 104ばんどうろ
-720	r	Don't spawn running オダマキ博士 on 101ばんどうろ
-721	r	Don't spawn オダマキ博士 in his laboratory
-722	r	Don't spawn ハルカ in her house 2F
-723	r	Don't spawn ユウキ/ハルカ on 103ばんどうろ
-724	r	Don't spawn Devon Researcher in トウカのもり
-725	r	Don't spawn Team Aqua Grunt in トウカのもり
-726	r	Don't spawn ミツル in トウカシティ
-727	r	Don't spawn letter in ダイゴ's house (invisible)
-728	r	Don't spawn woman in トウカシティ
+717	r	サファリゾーンのジョウトゾーンをふさぐ職員を非表示
+718	r	さいはてのことうのミュウを非表示
+719	r	104ばんどうろのライバルを非表示
+720	r	101ばんどうろのオダマキ博士を非表示
+721	r	研究所のオダマキ博士を非表示
+722	r	ハルカの部屋にいるハルカを非表示
+723	r	103ばんどうろのライバルを非表示
+724	r	トウカのもりのデボンコーポレーションの社員を非表示
+725	r	トウカのもりのアクア団したっぱを非表示
+726	r	トウカシティのミツルを非表示
+727	r	ダイゴの家の手紙(見えない状態)を非表示
+728	r	トウカシティのミツルママを非表示
 
-730	r	Don't spawn man in ポケモントレーナーファンクラブ
-731	r	Don't spawn Team Aqua Grunt in カナズミシティ
-732	r	Don't spawn Devon Researcher in カナズミシティ
-733	r	Don't spawn カイオーガ in かいていどうくつ
-734	r	Don't spawn センリ in ユウキ's/ハルカ's house
-735	r	Don't spawn kid in ユウキ's house
-736	r	Don't spawn kid in ハルカ's house
-737	r	Don't spawn Magma Letter in トクサネうちゅうセンター (invisible)
-738	r	Don't spawn ハギろうじん on 104ばんどうろ
-739	r	Don't spawn ハギろうじん in his cottage
-740	r	Don't spawn ハギろうじん in ムロタウン
-741	r	Don't spawn ハギろうじん on 109ばんすいどう
-742	r	Don't spawn ハギろうじん's ship on 104ばんどうろ
-743	r	Don't spawn ハギろうじん's ship in ムロタウン
-744	r	Don't spawn ハギろうじん's ship on 109ばんすいどう
-745	r	Don't spawn ユウキ in his house 1F
-746	r	Don't spawn ハルカ in her house 1F
-747	r	Don't spawn Guard in サファリゾーン Area 5
-748	r	Don't spawn ハギろうじん in ミナモシティ Harbor
-749	r	Don't spawn エニシダ in カイナシティ
-750	r	Don't spawn ジグザグマ on 101ばんどうろ
-751	r	Don't spawn ミツル in チャンピオンロード (near exit)
-752	r	Don't spawn mother in ミシロタウン
-753	r	Don't spawn ダイゴ in トクサネうちゅうセンター 1F
-754	r	Don't spawn ヤルキモノ in front of TV in ユウキ's and ハルカ's house
-755	r	Don't spawn moving ヤルキモノ in ユウキ's and ハルカ's house
-756	r	Don't spawn Team Magma Grunts in トクサネうちゅうセンター 1F
-757	r	Don't spawn mother in ユウキ's/ハルカ's house 2F
-758	r	Don't spawn mother in ユウキ's house
-759	r	Don't spawn mother in ハルカ's house
-760	r	Don't spawn ユウキ in his house
-761	r	Don't spawn truck in front of ユウキ's house
-762	r	Don't spawn truck in front of ハルカ's house
+730	r	ポケモントレーナーファンクラブの男性を非表示
+731	r	カナズミシティのアクア団したっぱを非表示
+732	r	カナズミシティのデボンコーポレーションの社員を非表示
+733	r	かいていどうくつのカイオーガを非表示
+734	r	主人公の家のセンリを非表示
+735	r	ユウキの家の妹を非表示
+736	r	ハルカの家の妹を非表示
+737	r	トクサネうちゅうセンターのマグマ団の手紙(見えない状態)を非表示
+738	r	104ばんどうろのハギろうじんを非表示
+739	r	ハギろうじんの小屋のハギろうじんを非表示
+740	r	ムロタウンのハギろうじんを非表示
+741	r	109ばんすいどうのハギろうじんを非表示
+742	r	104ばんどうろのハギろうじんの船を非表示
+743	r	ムロタウンのハギろうじんの船を非表示
+744	r	109ばんすいどうのハギろうじんの船を非表示
+745	r	ユウキの家1Fのユウキを非表示
+746	r	ハルカの家1Fのハルカを非表示
+747	r	サファリゾーンのエリア５の職員（入り口？）を非表示
+748	r	ミナモシティ船乗り場のハギろうじんを非表示
+749	r	をカイナシティのエニシダを非表示
+750	r	101ばんどうろのジグザグマを非表示
+751	r	チャンピオンロード(出口付近)ミツルを非表示
+752	r	ミシロタウンにいる(ランニングシューズ)ママを非表示
+753	r	トクサネうちゅうセンター1Fのダイゴを非表示
+754	r	主人公の家のテレビ前にいるヤルキモノを非表示
+755	r	主人公の家で動いているヤルキモノを非表示
+756	r	トクサネうちゅうセンター1Fのマグマ団したっぱを非表示
+757	r	主人公の家2Fのママを非表示
+758	r	ユウキの家のママを非表示
+759	r	ハルカの家のママを非表示
+760	r	ユウキの家にいるユウキを非表示
+761	r	ユウキの家の前のトラックを非表示
+762	r	ハルカの家の前のトラックを非表示
 
-764	r	Don't spawn triangle on たんじょうのしま
-765	r	Don't spawn エニシダ in キンセツシティ
-766	r	Don't spawn エニシダ in シダケタウン バトルテント
-767	r	Don't spawn エニシダ in ハジツゲタウン バトルテント
-768	r	Don't spawn Winstrate Victor on 111ばんどうろ
-769	r	Don't spawn Winstrate Victoria on 111ばんどうろ
-770	r	Don't spawn Winstrate Vivi on 111ばんどうろ
-771	r	Don't spawn Winstrate Vicky on 111ばんどうろ
-772	r	Don't spawn センリ in トウカジム
-773	r	Don't spawn レックウザ on そらのはしら
-774	r	Don't spawn Artist in ミナモ ポケモンコンテスト会場 (Left Door)
-775	r	Don't spawn Curator in ミナモびじゅつかん 1F/Can receive paintings
-776	r	Don't spawn Girl in ミナモびじゅつかん 1F
-777	r	Don't spawn Girl in ミナモびじゅつかん 2F
-778	r	Don't spawn Boy in ミナモびじゅつかん 1F
-779	r	Don't spawn Artist in ミナモびじゅつかん 1F
-780	r	Don't spawn Fat Guy/Old Man/Boy in ミナモびじゅつかん
-781	r	Don't spawn Gym Guide in トウカジム
-782	r	Don't spawn カイオーガ in うみのどうくつ
-783	r	Don't spawn グラードン in りくのどうくつ
-784	r	Don't spawn ライバル's mother in ユウキ's house
-785	r	Don't spawn ライバル's mother in ハルカ's house
-786	r	Don't spawn エニシダ on 119ばんどうろ
-787	r	Don't spawn エニシダ in みんしゅくモナミ
-788	r	Don't spawn エニシダ in トクサネシティ
-789	r	Don't spawn old woman in ポケモントレーナーファンクラブ
-790	r	Don't spawn man in ポケモントレーナーファンクラブ
-791	r	Don't spawn kid in ポケモントレーナーファンクラブ
-792	r	Don't spawn woman in ポケモントレーナーファンクラブ
-793	r	Don't spawn エニシダ in サイユウシティ ポケモンセンター
-794	r	Don't spawn ユウキ/ハルカ in ミシロタウン
-795	r	Don't spawn オダマキ博士 in ミシロタウン
-796	r	Don't spawn Interviewer Gabby & Ty on 111ばんどうろ
-797	r	Don't spawn Interviewer Gabby & Ty on 118ばんどうろ (for Rematch 1)
-798	r	Don't spawn Interviewer Gabby & Ty on 120ばんどうろ (for Rematch 2)
-799	r	Don't spawn Interviewer Gabby & Ty on 111ばんどうろ (for Rematch 3)
-800	r	Don't spawn ルギア in へそのいわ
-801	r	Don't spawn ホウオウ on へそのいわ
-802	r	Don't spawn Interviewer in ミナモ ポケモンコンテスト会場
+764	r	たんじょうのしまの三角形(デオキシス)を非表示
+765	r	キンセツシティのエニシダを非表示
+766	r	シダケタウンのバトルテントにいるエニシダを非表示
+767	r	ハジツゲタウンのバトルテントにいるエニシダを非表示
+768	r	111ばんどうろのハルヒコ(カチヌキファミリー)を非表示
+769	r	111ばんどうろのヤスエ(カチヌキファミリー)を非表示
+770	r	111ばんどうろのアキ(カチヌキファミリー)を非表示
+771	r	111ばんどうろのミツヨ(カチヌキファミリー)を非表示
+772	r	トウカジム(奥)のセンリを非表示
+773	r	そらのはしらのレックウザを非表示
+774	r	ミナモポケモンコンテスト会場(左ドア)の絵描きを非表示
+775	r	ミナモびじゅつかん1Fにいる館長を非表示/絵が受け取れるようになる
+776	r	ミナモびじゅつかん1Fにいる少女を非表示
+777	r	ミナモびじゅつかん2Fにいる少女を非表示
+778	r	ミナモびじゅつかん1Fにいる少年を非表示
+779	r	ミナモびじゅつかん1Fにいる絵描きを非表示
+780	r	ミナモびじゅつかんにいる太った男/老人/少年を非表示
+781	r	トウカジムのアドバイザーを非表示
+782	r	うみのどうくつのカイオーガを非表示
+783	r	りくのどうくつグラードンを非表示
+784	r	ユウキの家にいるハルカのママを非表示
+785	r	ハルカの家にいるユウキのママを非表示
+786	r	119ばんどうろのエニシダを非表示
+787	r	みんしゅくモナミにいるエニシダ
+788	r	トクサネシティにいるエニシダ
+789	r	ポケモントレーナーファンクラブの老人を非表示
+790	r	ポケモントレーナーファンクラブの男性を非表示
+791	r	ポケモントレーナーファンクラブの子供を非表示
+792	r	ポケモントレーナーファンクラブの女性を非表示
+793	r	サイユウシティ(下)ポケモンセンターにいるエニシダを非表示
+794	r	ミシロタウンのユウキ/ハルカを非表示
+795	r	ミシロタウンのオダマキ博士を非表示
+796	r	111ばんどうろのマリとダイを非表示
+797	r	118ばんどうろ(再戦1回目用)マリとダイを非表示
+798	r	120ばんどうろ(再戦2回目用)マリとダイを非表示
+799	r	111ばんどうろ(再戦3回目用)マリとダイを非表示
+800	r	へそのいわルギアを非表示
+801	r	へそのいわホウオウを非表示
+802	r	ミナモポケモンコンテスト会場のインタビュアーを非表示
 
-804	r	Don't spawn ミツル in キンセツシティ
-805	r	Don't spawn ミツル's uncle in キンセツシティ
-806	r	Don't spawn ミツル in ミチル's house
-807	r	Don't spawn Black Belt in カナシダトンネル
-808	r	Don't spawn Black Belt in ミチル's house
-809	r	Don't spawn ミツル's uncle in ミチル's house
-810	r	Don't spawn エニシダ on Ship
-811	r	Don't spawn モンスターボール containing ヒノアラシ in オダマキ博士の研究所
-812	r	Don't spawn モンスターボール containing ワニノコ in オダマキ博士の研究所
-813	r	Don't spawn black haired guy on 116ばんどうろ
-814	r	Don't spawn ユウキ/ハルカ in カナズミシティ
-815	r	Don't spawn チルット Doll in ユウキ's house
-816	r	Don't spawn ミクリ in ルネシティ
-817	r	Don't spawn Pokéball in ユウキ's house
-818	r	Don't spawn Pokéball in ハルカ's house
-819	r	Don't spawn Team Magma Grunts on 112ばんどうろ
-820	r	Don't spawn ミクリ in めざめのほこら
-821	r	Don't spawn left Team Aqua Grunt in アクアだんアジト
-822	r	Don't spawn right Team Aqua Grunt in アクアだんアジト
-823	r	Don't spawn Team Magma Grunts & マツブサ in トクサネシティ
-824	r	Don't spawn ミツル's dad in トウカジム
+804	r	キンセツシティのミツルを非表示
+805	r	キンセツシティのミツルのおじを非表示
+806	r	ミチルの家にいるミツルを非表示
+807	r	カナシダトンネルにいるカラテおうを非表示
+808	r	ミチルの家にいるカラテおうを非表示
+809	r	ミチルの家にいるミツルのおじを非表示
+810	r	船にいるエニシダを非表示
+811	r	オダマキ博士の研究所にあるヒノアラシのモンスターボールを非表示
+812	r	オダマキ博士の研究所にあるワニノコのモンスターボールを非表示
+813	r	116ばんどうろにいる男(くろいメガネのイベント)を非表示
+814	r	カナズミシティのライバルを非表示
+815	r	ユウキの家のチルットドールを非表示
+816	r	ルネシティのミクリを非表示
+817	r	ユウキの部屋のモンスターボールを非表示
+818	r	ハルカの部屋のモンスターボールを非表示
+819	r	112ばんどうろのマグマ団したっぱを非表示
+820	r	めざめのほこらのミクリを非表示
+821	r	アクアだんアジトをふさぐ左のアクア団したっぱを非表示
+822	r	アクアだんアジトをふさぐ右のアクア団したっぱを非表示
+823	r	トクサネシティのマグマ団したっぱとマツブサを非表示
+824	r	トウカジムのミツルのパパを非表示
 
-826	r	Don't spawn アオギリ in ルネシティ
-827	r	Don't spawn マツブサ in ルネシティ
+826	r	ルネシティのアオギリを非表示
+827	r	ルネシティのマツブサを非表示
 
-830	r	Don't spawn ミツル's dad in トウカシティ
+830	r	トウカシティのミツルのパパを非表示
 
-832	r	Don't spawn ブレンドめいじん and Spectators in ミナモ ポケモンコンテスト会場
-833	r	Don't spawn ダイゴ in いしのどうくつ
+832	r	ミナモポケモンコンテスト会場にいるブレンドめいじんと観客を非表示
+833	r	いしのどうくつにいるダイゴを非表示
 
-835	r	Don't spawn Interviewer in カイナシティ
-836	r	Don't spawn エニシダ in バトルフロンティア entrance
-837	r	Don't spawn オダマキ博士 on 110ばんどうろ
-838	r	Don't spawn モンスターボール containing チコリータ in オダマキ博士の研究所
-839	r	Don't spawn man in northern ルネシティ
-840	r	Don't spawn クスノキ館長 in カイナシティ
-841	r	Don't spawn クスノキ館長 in カイナシティふねのりば
-842	r	Don't spawn ウソッキー in バトルフロンティア
-843	r	Don't spawn fat guy on 111ばんどうろ
-844	r	Don't spawn Devon Researcher (white coat) in カナズミシティ
-845	r	Don't spawn Team Aqua Grunt in カイナシティふねのりば
-846	r	Don't spawn Team Aqua Leader アオギリ in カイナシティふねのりば
-847	r	Don't spawn Team Magma Grunt on デコボコさんどう
-848	r	Don't spawn Submarine Shadow in カイナシティふねのりば
-849	r	Don't spawn ピチュー doll in ハルカ's house
-850	r	Don't spawn グラードン (petrified) in マグマだんアジト
-851	r	Don't spawn ユウキ/ハルカ on 119ばんどうろ
-852	r	Don't spawn Team Aqua Grunts in ミナモシティ
-853	r	Don't spawn グラードン (awake) in マグマだんアジト
-854	r	Don't spawn additional villagers in ルネシティ
-855	r	Don't spawn ミクリ in front of そらのはしら
-856	r	Don't spawn マツブサ on おくりびやま
-857	r	Don't spawn Team Magma in マグマだんアジト
-858	r	Don't spawn ミツル in チャンピオンロード (near entrance)
+835	r	カイナシティのインタビュアーを非表示
+836	r	バトルフロンティアのエントランスのエニシダを非表示
+837	r	110ばんどうろのオダマキ博士を非表示
+838	r	オダマキ博士の研究所にあるチコリータのモンスターボールを非表示
+839	r	ルネシティ北部の男性を非表示
+840	r	カイナシティのクスノキ館長を非表示
+841	r	カイナシティ船乗り場のクスノキ館長を非表示
+842	r	バトルフロンティアのウソッキーを非表示
+843	r	111ばんどうろの太った男を非表示
+844	r	カナズミシティの白衣姿のデボンコーポレーション社員を非表示
+845	r	カイナシティ船乗り場のアクア団したっぱを非表示
+846	r	カイナシティ船乗り場のアクア団リーダーアオギリを非表示
+847	r	デコボコさんどうのマグマ団したっぱを非表示
+848	r	カイナシティ船乗り場の潜水艦の影を非表示
+849	r	ハルカの家のピチュードールを非表示
+850	r	マグマだんアジトのグラードン(未覚醒)を非表示
+851	r	119ばんどうろのライバルを非表示
+852	r	ミナモシティのアクア団したっぱたちを非表示
+853	r	マグマだんアジトのグラードン(覚醒)を非表示
+854	r	ルネシティの町の人たち(イベント用)を非表示
+855	r	そらのはしらのミクリを非表示
+856	r	おくりびやまのマツブサを非表示
+857	r	マグマだんアジトのマグマ団を非表示
+858	r	チャンピオンロード(入り口付近)ミツルを非表示
 
-860	r	Don't spawn タイドリップごう in カイナシティふねのりば
-861	r	Don't spawn タイドリップごう in ミナモシティふねのりば
-862	r	Don't spawn Team Magma in トクサネうちゅうセンター 2F
-863	r	Don't spawn ダイゴ in トクサネうちゅうセンター 2F
+860	r	カイナシティ船乗り場のタイドリップごうを非表示
+861	r	ミナモシティ船乗り場のタイドリップごうを非表示
+862	r	トクサネうちゅうセンター2Fのマグマ団を非表示
+863	r	トクサネうちゅうセンター2Fのダイゴを非表示
 
-866	r	Don't spawn ミツル in トウカジム
+866	r	トウカジムのミツルを非表示
 
-868	r	Don't spawn fat man in ミシロタウン
-869	r	Don't spawnハギろうじん in クスノキぞうせんじょ
-870	r	Don't spawn マユミ in her house
-871	r	Don't spawn マユミ in ハジツゲタウン ポケモンセンター
-872	r	Don't spawn Trick Master in カラクリやしき Entrance
-873	r	Don't spawn Old Man in ミナモ ポケモンコンテスト会場
-874	r	Don't spawn かせき in さばくのちかどう
-875	r	Don't spawn ユウキ/ハルカ on 111ばんどうろ さばく (unused?)
-876	r	Don't spawn かせき on 111ばんどうろ
-877	r	Don't spawn Trainers on えんとつやま
-878	r	Don't spawn Team Aqua Grunt in カナシダトンネル
-879	r	Don't spawn ハギろうじん in カナシダトンネル
-880	r	Don't spawn ピーコ (キャモメ) in カナシダトンネル
-881	r	Don't spawn ピーコ (キャモメ) in ハギろうじんの小屋
-882	r	Don't spawn Team Aqua Grunts in カイナシティ
-883	r	Don't spawn Team Aqua Grunts in うみのかがくはくぶつかん
-884	r	Don't spawn Team Aqua Grunt in うみのかがくはくぶつかん 2F
-885	r	Don't spawn Team Aqua Grunt in うみのかがくはくぶつかん 2F
-886	r	Don't spawn アオギリ in うみのかがくはくぶつかん 2F
-887	r	Don't spawn クスノキ館長 in うみのかがくはくぶつかん
+868	r	ミシロタウンの太った男を非表示
+869	r	クスノキぞうせんじょにいるハギろうじんを非表示
+870	r	マユミの家にいるマユミを非表示
+871	r	ハジツゲタウンポケモンセンターにいるマユミを非表示
+872	r	カラクリやしき最初の部屋にいるカラクリ大王を非表示
+873	r	ミナモポケモンコンテスト会場にいる老人を非表示
+874	r	さばくのちかどうのカセキを非表示
+875	r	111ばんどうろのさばくにいるライバルを非表示(未使用?)
+876	r	111ばんどうろのカセキを非表示
+877	r	えんとつやまにいるトレーナーたちを非表示
+878	r	カナシダトンネルにいるアクア団したっぱを非表示
+879	r	カナシダトンネルにいるハギろうじんを非表示
+880	r	カナシダトンネルにいるピーコちゃん(キャモメ)を非表示
+881	r	ハギろうじんの小屋のピーコちゃん(キャモメ)を非表示
+882	r	カイナシティのアクア団したっぱたちを非表示
+883	r	うみのかがくはくぶつかんにいるアクア団したっぱたちを非表示
+884	r	うみのかがくはくぶつかん2Fにいるアクア団したっぱを非表示
+885	r	うみのかがくはくぶつかん2Fにいるアクア団したっぱを非表示
+886	r	うみのかがくはくぶつかん2Fにいるアオギリを非表示
+887	r	うみのかがくはくぶつかん2Fにいるクスノキ館長を非表示
 
-889	r	Don't spawn ユウキ/ハルカ in オダマキ博士の研究所
-890	r	Don't spawn Team Aqua in てんきけんきゅうじょ
-891	r	Don't spawn ハギろうじん on 116ばんどうろ
-892	r	Don't spawn assistants in てんきけんきゅうじょ 1F
-893	r	Don't spawn assistants in てんきけんきゅうじょ 2F
-894	r	Don't spawn Black Belt on 116ばんどうろ
-895	r	Don't spawn Artist in ミナモ ポケモンコンテスト会場 (Right Door)
+889	r	オダマキ博士の研究所にいるライバルを非表示
+890	r	てんきけんきゅうじょにいるアクア団を非表示
+891	r	116ばんどうろにいるハギろうじんをを非表示
+892	r	てんきけんきゅうじょ1Fの研究員を非表示
+893	r	てんきけんきゅうじょ2Fの研究員を非表示
+894	r	116ばんどうろにいるカラテおうを非表示
+895	r	ミナモポケモンコンテスト会場(右のドア)にいる絵描きを非表示
 
-897	r	Don't spawn オダマキ博士 on 101ばんどうろ
-898	r	Don't spawn オダマキ博士 on 103ばんどうろ
-899	r	Don't spawn Trick Master in カラクリやしき Reward Room
-900	r	Don't spawn Team Aqua Grunts on 110ばんどうろ
-901	r	Don't spawn Interviewer Gabby & Ty on 118ばんどうろ (for Rematch 4)
-902	r	Don't spawn Interviewer Gabby & Ty on 120ばんどうろ (for Rematch 5)
-903	r	Don't spawn Interviewer Gabby & Ty on 111ばんどうろ (for Rematch 5)
-904	r	Don't spawn Interviewer Gabby & Ty on 118ばんどうろ (Rematch 5)
-905	r	Don't spawn sailor and fat guy in カイナシティふねのりば
-906	r	Don't spawn girl on 104ばんどうろ
-907	r	Don't spawn Azurill in ハジツゲタウン
-908	r	Don't spawn Lady in ミナモシティ Harbor
-909	r	Don't spawn Sailor in ミナモシティ Harbor
+897	r	101ばんどうろにいるオダマキ博士を非表示
+898	r	103ばんどうろにいるオダマキ博士を非表示
+899	r	カラクリやしき最後の部屋にいるカラクリ大王を非表示
+900	r	110ばんどうろのアクア団したっぱたちを非表示
+901	r	118ばんどうろ(再戦4回目用)マリとダイを非表示
+902	r	120ばんどうろ(再戦5回目用)マリとダイを非表示
+903	r	111ばんどうろ(再戦5回目用)マリとダイを非表示
+904	r	118ばんどうろ(再戦5回目用)マリとダイを非表示
+905	r	カイナシティ船乗り場の船員と太った男を非表示
+906	r	104ばんどうろの少女を非表示
+907	r	ハジツゲタウンのルリリを非表示
+908	r	ミナモシティ船乗り場の受け付けの女性を非表示
+909	r	ミナモシティ船乗り場の船員を非表示
 
-912	r	Don't spawn テッセン in キンセツシティ
-913	r	Don't spawn テッセン in キンセツジム
-914	r	Don't spawn Team Aqua Grunts on 121ばんどうろ
+912	r	キンセツシティのテッセンを非表示
+913	r	キンセツジムのテッセンを非表示
+914	r	121ばんどうろのアクア団したっぱたちを非表示
 
-916	r	Don't spawn アオギリ on おくりびやま
-917	r	Don't spawn Team Aqua Grunts on おくりびやま
-918	r	Don't spawn Interviewer in バトルタワー
-919	r	Don't spawn ユウキ/ハルカ on 110ばんどうろ
+916	r	おくりびやまのアオギリを非表示
+917	r	おくりびやまのアクア団したっぱたちを非表示
+918	r	バトルタワーのインタビュアーを非表示
+919	r	110ばんどうろのライバルを非表示
 
-922	r	Don't spawn ユウキ/ハルカ (on bike) on 110ばんどうろ (unused?)
-923	r	Don't spawn ユウキ/ハルカ (on bike) on 119ばんどうろ (unused?)
-924	r	Don't spawn Team Aqua in アクアだんアジト
-925	r	Don't spawn ゲームフリークのスタッフ in みんしゅくモナミ
-926	r	Don't spawn Team Aqua on えんとつやま
-927	r	Don't spawn Team Magma on えんとつやま
-928	r	Don't spawn ソライシ in his house
-929	r	Don't spawn ユウキ/ハルカ in フエンタウン
-930	r	Don't spawn ユウキ/ハルカ (on bike) in フエンタウン (unused?)
-931	r	Don't spawn bottom boulder in カナシダトンネル
-932	r	Don't spawn top boulder in カナシダトンネル
-933	r	Don't spawn Wingull in ヒワマキシティ
-934	r	Don't spawn Wingull in トクサネシティ
-935	r	Don't spawn レジロック in さばくいせき
+922	r	110ばんどうろのライバル(+じてんしゃ)を非表示(未使用?)
+923	r	119ばんどうろライバル(+じてんしゃ)を非表示(未使用?)
+924	r	アクアだんアジトのアクア団を非表示
+925	r	みんしゅくモナミゲームフリークのスタッフたちを非表示
+926	r	えんとつやまのアクア団を非表示
+927	r	えんとつやまのマグマ団を非表示
+928	r	ソライシの家のソライシを非表示
+929	r	フエンタウンのライバルを非表示
+930	r	フエンタウンのライバル(+じてんしゃ)を非表示(未使用?)
+931	r	カナシダトンネルの下の岩(いわくだきの)を非表示
+932	r	カナシダトンネルの上の岩(いわくだきの)を非表示
+933	r	ヒワマキシティのキャモメを非表示
+934	r	トクサネシティのキャモメを非表示
+935	r	さばくいせきのレジロックを非表示
 	
-938	r	Don't spawn Team Aqua Grunts and アオギリ in りゅうせいのたき
-939	r	Don't spawn Team Magma Grunts in りゅうせいのたき
-940	r	Don't spawn black haired guy in ムロしゅうかいじょ
-941	r	Don't spawn Team Aqua Grunt in かいていどうくつ Entrance
-942	r	Don't spawn ソライシ in りゅうせいのたき
-943	r	Don't spawn submarine shadow in アクアだんアジト
-944	r	Don't spawn アオギリ above かいていどうくつ
-945	r	Don't spawn マツブサ above かいていどうくつ
-946	r	Don't spawn Team Aqua in かいていどうくつ
-947	r	Don't spawn Devon Researcher on 116ばんどうろ
-948	r	Don't spawn Sells Guy in カイナシティ
-949	r	Don't spawn Devon Researcher in デボンコーポレーション
-950	r	Don't spawn ハギろうじん and ピーコ (キャモメ) on タイドリップごう
+938	r	りゅうせいのたきアクア団したっぱたちとアオギリを非表示
+939	r	りゅうせいのたきのマグマ団したっぱたちを非表示
+940	r	ムロしゅうかいじょの黒髪の男を非表示
+941	r	かいていどうくつ入り口をふさぐアクア団したっぱを非表示
+942	r	りゅうせいのたきのソライシを非表示
+943	r	アクアだんアジトの潜水艦の影を非表示
+944	r	かいていどうくつ真上の浅瀬のアオギリを非表示
+945	r	かいていどうくつ真上の浅瀬のマツブサを非表示
+946	r	かいていどうくつのアクア団を非表示
+947	r	116ばんどうろのデボンコーポレーション社員を非表示
+948	r	カイナいちばのひみつのちからを売ってくれる店員を非表示
+949	r	デボンコーポレーションにいるデボンコーポレーション社員を非表示
+950	r	タイドリップごうにいるハギろうじんとピーコちゃん(キャモメ)を非表示
 
-952	r	Shoal Salt (inner room north) in あさせのほらあな found
-953	r	Shoal Salt (inner room south) in あさせのほらあな found
-954	r	Shoal Salt (stairs room) in あさせのほらあな found
-955	r	Shoal Salt (lower room) in あさせのほらあな found
-956	r	Shoal Shell (southeast) in あさせのほらあな found
-957	r	Shoal Shell (northeast) in あさせのほらあな found
-958	r	Shoal Shell (northwest) in あさせのほらあな found
-959	r	Shoal Shell (near center) in あさせのほらあな found
-960	r	Don't spawn boy that gives わざマシン43 on 111ばんどうろ
-961	r	Don't spawn visitors in うみのかがくはくぶつかん
-962	r	Don't spawn Sales Guy on rooftop of ミナモデパート
-963	r	Don't spawn ねっこのカセキ in げんえいのとう
-964	r	Don't spawn ツメのカセキ in げんえいのとう
-965	r	Don't spawn Team Aqua Grunt in うみのかがくはくぶつかん 1F
-966	r	Don't spawn ダイゴ on 118ばんどうろ
-967	r	Don't spawn ダイゴ in his own house
-968	r	Don't spawn ダンバル (Pokéball) in ダイゴ's house
-969	r	Don't spawn カクレオン in ヒワマキシティ
-970	r	Dont't spawn カクレオン on 120ばんどうろ (Bridge)
-971	r	Don't spawn ユウキ/ハルカ in ミナモシティ
-972	r	Don't spawn ダイゴ on 120ばんどうろ
-973	r	Don't spawn ダイゴ in ルネシティ
-974	r	Don't spawn ビリリダマ on green switch in ニューキンセツ
-975	r	Don't spawn ビリリダマ on blue switch in ニューキンセツ
-976	r	Don't spawn ビリリダマ on blue switch in ニューキンセツ
-977	r	Don't spawn top マルマイン in アクアだんアジト
-978	r	Don't spawn bottom マルマイン in アクアだんアジト
-979	r	Don't spawn ユウキ/ハルカ in コトキタウン
-980	r	Don't spawn submarine in かいていどうくつ (invisible)
-981	r	Don't spawn カクレオン shadow on 120ばんどうろ
-982	r	Don't spawn カクレオン on 120ばんどうろ (Stairs)
-983	r	Don't spawn ミチル in カナシダトンネル
-984	r	Don't spawn ミチル in ミチル's house
-985	r	Don't spawn カクレオン on 120ばんどうろ (Behind Sign)
-986	r	Don't spawn カクレオン on 120ばんどうろ (Behind Berry Trees)
-987	r	Don't spawn カクレオン on 120ばんどうろ (Left of Long Grass Maze)
-988	r	Don't spawn カクレオン on 120ばんどうろ (Behind こだいづか)
-989	r	Don't spawn カクレオン on 119ばんどうろ (Right of Ninja Boy)
-990	r	Don't spawn カクレオン on 119ばんどうろ (Left of Ninja Boy)
-991	r	Don't spawn guy in grass on 101ばんどうろ
+952	r	あさせのほらあな(奥の部屋北)の あさせのしお をゲットした
+953	r	あさせのほらあな(奥の部屋南)の あさせのしお をゲットした
+954	r	あさせのほらあな(段々の部屋)の あさせのしお をゲットした
+955	r	あさせのほらあな(地下の部屋)の あさせのしお をゲットした
+956	r	あさせのほらあな(南東)の あさせのかいがら をゲットした
+957	r	あさせのほらあな(北東)の あさせのかいがら をゲットした
+958	r	あさせのほらあな(北西)の あさせのかいがら をゲットした
+959	r	あさせのほらあな(中央付近)の あさせのかいがら をゲットした
+960	r	111ばんどうろにいるわざマシン43くれる人を非表示
+961	r	うみのかがくはくぶつかんの来館者を非表示
+962	r	ミナモデパート屋上の店員を非表示
+963	r	げんえいのとうのねっこのカセキを非表示
+964	r	げんえいのとうのツメのカセキを非表示
+965	r	うみのかがくはくぶつかん1Fのアクア団したっぱたちを非表示
+966	r	118ばんどうろのダイゴを非表示
+967	r	ダイゴの家にいるダイゴを非表示
+968	r	ダイゴの家のダンバル(モンスターボール)を非表示
+969	r	ヒワマキシティのカクレオンを非表示
+970	r	120ばんどうろ(橋)のカクレオンを非表示 
+971	r	ミナモデパートをふさぐライバルを非表示
+972	r	120ばんどうろのダイゴを非表示
+973	r	ルネシティのダイゴを非表示
+974	r	ニューキンセツのビリリダマ(緑スイッチの上)を非表示
+975	r	ニューキンセツのビリリダマ(青スイッチの上)を非表示
+976	r	ニューキンセツのビリリダマ(青スイッチの上)を非表示
+977	r	アクアだんアジトの上のマルマインを非表示
+978	r	アクアだんアジトの下のマルマインを非表示
+979	r	コトキタウンのライバルを非表示
+980	r	かいていどうくつの潜水艦(見えない状態)を非表示
+981	r	120ばんどうろのカクレオンの影を非表示
+982	r	120ばんどうろ(階段)のカクレオンを非表示
+983	r	カナシダトンネルのミチルを非表示
+984	r	ミチルの家にいるミチルを非表示
+985	r	120ばんどうろ(看板の後ろ)のカクレオンを非表示
+986	r	120ばんどうろ(木の実の後ろ)のカクレオンを非表示
+987	r	120ばんどうろ(長い草の迷路の左)のカクレオンを非表示
+988	r	120ばんどうろ(こだいづかの後ろ)のカクレオンを非表示
+989	r	119ばんどうろ(右のニンジャごっこ付近)のカクレオンを非表示
+990	r	119ばんどうろ(左のニンジャごっこ付近)のカクレオンを非表示
+991	r	101ばんどうろの草むらにいる男を非表示
 
-993	r	Don't spawn Guy named Handsome in ミナモシティ ポケモンセンター
-994	r	Don't spawn old woman on えんとつやま
+993	r	ミナモシティポケモンセンターにいるおねえさんを非表示
+994	r	えんとつやまのおばあちゃんを非表示
 
-996	r	Don't spawn レックウザ in ルネシティ
-997	r	Don't spawn カイオーガ in ルネシティ
-998	r	Don't spawn グラードン in ルネシティ
-999	r	Don't spawn エニシダ in ポケモントレーナーズスクール
-1000	r	キズぐすり on 102ばんどうろ found
+996	r	ルネシティのレックウザを非表示
+997	r	ルネシティのカイオーガを非表示
+998	r	ルネシティのグラードンを非表示
+999	r	ポケモントレーナーズスクールエニシダを非表示
+1000	r	102ばんどうろで キズぐすりを ゲット
 1001	r	スペシャルアップ on 116ばんどうろ found
 1002	r	ポイントアップ on 104ばんどうろ found
 1003	r	ブロムヘキシン on 105ばんすいどう found
@@ -680,8 +680,8 @@
 
 1272	s	Change text of Pokémon Trainer ダイゴ in りゅうせいのたき (Unset for rebattle)
 
-1281	t	Hiker Sawyer on えんとつやま defeated
-1282	t	Team Aqua Grunt (Male) in アクアだんアジト 1F defeated
+1281	t	えんとつやまの やまおとこ マサヒコに 勝利
+1282	t	Team Aqua Grunt (男) in アクアだんアジト 1F 勝利
 1283	t	Team Aqua Grunt (Male) in アクアだんアジト B1F defeated
 1284	t	Team Aqua Grunt (Male) in アクアだんアジト B1F defeated
 1285	t	Team Aqua Grunt (Male) in アクアだんアジト B2F defeated
@@ -693,7 +693,7 @@
 1291	t	Cooltrainer Marcel on 121ばんどうろ defeated
 1292	t	Bird Keeper Alberto on 123ばんどうろ defeated
 1293	t	Collector Ed on 123ばんどうろ defeated
-1294	t	Team Aqua Grunt (Female) in かいていどうくつ Room 3 defeated
+1294	t	Team Aqua Grunt (女) in かいていどうくつ Room 3 defeated
 1295	t	Swimmer Declan on 124ばんすいどう defeated
 1296	t	Team Aqua Grunt (Male) in カナシダトンネル defeated
 1297	t	Team Aqua Grunt (Male) in てんきけんきゅうじょ 1F defeated
@@ -719,7 +719,7 @@
 1317	t	Aroma Lady Rose on 118ばんどうろ defeated
 1318	t	Cooltrainer Felix in チャンピオンロード B2F defeated
 1319	t	Aroma Lady Violet on 123ばんどうろ defeated
-1320	t	Aroma Lady Violet (Rematch 1) on 123ばんどうろ defeated
+1320	t	Aroma Lady Violet (再戦1回目) on 123ばんどうろ defeated
 1321	t	Aroma Lady Violet (Rematch 2) on 123ばんどうろ defeated
 1322	t	Aroma Lady Violet (Rematch 3) on 123ばんどうろ defeated
 1323	t	Aroma Lady Violet (Rematch 4) on 123ばんどうろ defeated
@@ -940,18 +940,18 @@
 1538	t	Gentleman Walter (Rematch 2) on 121ばんどうろ defeated
 1539	t	Gentleman Walter (Rematch 3) on 121ばんどうろ defeated
 1540	t	Gentleman Walter (Rematch 4) on 121ばんどうろ defeated
-1541	t	してんのう カゲツ defeated
-1542	t	してんのう フヨウ defeated
-1543	t	してんのう プリム defeated
-1544	t	してんのう ゲンジ defeated
-1545	t	ジムリーダー ツツジ defeated
-1546	t	ジムリーダー トウキ defeated
-1547	t	ジムリーダー テッセン defeated
-1548	t	ジムリーダー アスナ defeated
-1549	t	ジムリーダー センリ defeated
-1550	t	ジムリーダー ナギ defeated
-1551	t	ジムリーダー フウとラン defeated
-1552	t	ジムリーダー アダン defeated
+1541	t	してんのうカゲツに勝利
+1542	t	してんのうフヨウに勝利
+1543	t	してんのうプリムに勝利
+1544	t	してんのうゲンジに勝利
+1545	t	ジムリーダーツツジに勝利
+1546	t	ジムリーダートウキに勝利
+1547	t	ジムリーダーテッセンに勝利
+1548	t	ジムリーダーアスナに勝利
+1549	t	ジムリーダーセンリに勝利
+1550	t	ジムリーダーナギに勝利
+1551	t	ジムリーダーフウとランに勝利
+1552	t	ジムリーダーアダンに勝利
 1553	t	School Kid Jerry on 116ばんどうろ defeated
 1554	t	School Kid Ted in カラクリやしき Puzzle 2 defeated
 1555	t	School Kid Paul in カラクリやしき Puzzle 2 defeated
@@ -1523,49 +1523,49 @@
 2129	t	Psychic Alvaro in カラクリやしき Puzzle 7 defeated
 2130	t	Gentleman Everett in カラクリやしき Puzzle 7 defeated
 
-2186	m	Rain and Harsh Sunlight in Eastern Hoenn
-2159	f	Can そらをとぶ to ミシロタウン
-2160	f	Can そらをとぶ to コトキタウン
-2161	f	Can そらをとぶ to ムロタウン
-2162	f	Can そらをとぶ to フエンタウン
-2163	f	Can そらをとぶ to ハジツゲタウン
-2164	f	Can そらをとぶ to シダケタウン
-2165	f	Can そらをとぶ to キナギタウン
-2166	f	Can そらをとぶ to トウカシティ
-2167	f	Can そらをとぶ to カイナシティ
-2168	f	Can そらをとぶ to キンセツシティ
-2169	f	Can そらをとぶ to カナズミシティ
-2170	f	Can そらをとぶ to ヒワマキシティ
-2171	f	Can そらをとぶ to ミナモシティ
-2172	f	Can そらをとぶ to トクサネシティ
-2173	f	Can そらをとぶ to ルネシティ
-2174	f	Can そらをとぶ to サイユウシティ
-2216	f	Can そらをとぶ to バトルフロンティア
-2204	m	Visited フラワーショップ サン・トウカ
-2205	m	Visited ハギろうじんの小屋
-2206	m	Visited すてられぶね
-2207	m	Visited うみのいえ
-2208	m	Visited ニューキンセツ
-2209	m	Visited ケンコーばあさんの家
-2210	m	Visited カラクリやしき
-2211	m	Visited カチヌキファミリー
-2212	m	Visited ガラスざいくのおみせ
-2213	m	Visited マユミの家
-2214	m	Visited そだてや
-2215	m	Visited かいていどうくつ
-2218	m	Visited ほのおのぬけみち
-2228	m	Visited ポケモンリーグ
-2229	m	Visited こじまのよこあな
-2230	m	Visited さばくいせき
-2231	m	Visited かせきマニアの家
-2232	m	Visited ひでりのいわと
-2233	m	Visited こだいづか
-2234	m	Visited トンネルこうじさぎょういんつめしょ
-2235	m	Visited トレジャーハンターのこや
-2236	m	Visited おふれのせきしつ
-2238	m	Visited そらのはしら
-2243	m	Visited きのみ名人の家
-2268	m	Visited げんえいのとう
-2269	m	Visited へんげのどうくつ
-2270	m	Visited さばくのちかどう
-2274	m	Visited トレーナーヒル
+2186	m	おおあめとひでり発生中（ルネシティのイベント）
+2159	f	ミシロタウンへそらをとぶできる
+2160	f	コトキタウンへそらをとぶできる
+2161	f	ムロタウンへそらをとぶできる
+2162	f	フエンタウンへそらをとぶできる
+2163	f	ハジツゲタウンへそらをとぶできる
+2164	f	シダケタウンへそらをとぶできる
+2165	f	キナギタウンへそらをとぶできる
+2166	f	トウカシティへそらをとぶできる
+2167	f	カイナシティへそらをとぶできる
+2168	f	キンセツシティへそらをとぶできる
+2169	f	カナズミシティへそらをとぶできる
+2170	f	ヒワマキシティへそらをとぶできる
+2171	f	ミナモシティへそらをとぶできる
+2172	f	トクサネシティへそらをとぶできる
+2173	f	ルネシティへそらをとぶ可能
+2174	f	サイユウシティ（下）へそらをとぶできる
+2216	f	バトルフロンティアへそらをとぶできる
+2204	m	フラワーショップ サン・トウカに訪れた 
+2205	m	ハギろうじんの小屋に訪れた 
+2206	m	すてられぶねに訪れた
+2207	m	うみのいえに訪れた
+2208	m	ニューキンセツに訪れた
+2209	m	ケンコーばあさんの家に訪れた
+2210	m	カラクリやしきに訪れた
+2211	m	カチヌキファミリーに訪れた
+2212	m	ガラスざいくのおみせに訪れた
+2213	m	マユミの家に訪れた
+2214	m	そだてやに訪れた
+2215	m	かいていどうくつに訪れた
+2218	m	ほのおのぬけみちに訪れた
+2228	m	ポケモンリーグに訪れた
+2229	m	こじまのよこあなに訪れた
+2230	m	さばくいせきに訪れた
+2231	m	かせきマニアの家に訪れた
+2232	m	ひでりのいわとに訪れた
+2233	m	こだいづかに訪れた
+2234	m	トンネルこうじさぎょういんつめしょに訪れた
+2235	m	トレジャーハンターのこやに訪れた
+2236	m	おふれのせきしつに訪れた
+2238	m	そらのはしらに訪れた
+2243	m	きのみ名人の家に訪れた
+2268	m	げんえいのとうに訪れた
+2269	m	へんげのどうくつに訪れた
+2270	m	さばくのちかどうに訪れた
+2274	m	トレーナーヒルに訪れた 
